@@ -20,7 +20,8 @@ Practicar la manipulación del DOM, el uso de arrays y funciones en JavaScript, 
 
 ## 📸 Vista previa
 
-*(Podés agregar una captura de pantalla aquí si querés)*
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/219469ff-2ece-43fe-81fa-2d7a638ee54f" />
+
 
 ## 📚 Aprendizajes
 
